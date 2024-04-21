@@ -1,0 +1,7 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"M1, M3, M2",3," DC Motor"
+"U2",1," IR sensor"
+"U4, U3",2," H-bridge Motor Driver"
+"SERVO1",1,"Positional Micro Servo"
+"BAT1",1," 9V Battery"
